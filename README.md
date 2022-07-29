@@ -1,3 +1,4 @@
 # Linear_algebra
-# Linear space. Basic concepts.
+# lesson_1. Linear space. Basic concepts.
 Linear dependence of vectors, Basis and dimension, Subspaces of linear space, Euclidean space, Linear normalized spaces, Metric spaces
+# lesson_2. Matrices and matrix operations.
