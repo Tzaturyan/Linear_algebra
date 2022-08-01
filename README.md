@@ -4,3 +4,4 @@ Linear dependence of vectors, Basis and dimension, Subspaces of linear space, Eu
 # lesson_2. Matrices and matrix operations.
 # lesson_3. Linear transformations
 # lesson_4. Systems of linear equations
+# lesson_5. Singular matrix decomposition
